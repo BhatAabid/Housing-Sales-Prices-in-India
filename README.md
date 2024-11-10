@@ -10,10 +10,15 @@ Key Metrics: Displays metrics such as total sales, average sale price, and sales
 Data Source
 The dataset used for this analysis covers housing sales data across various Indian cities, including details on:
 
+
+ 
 Property Types: Types of properties sold (e.g., apartments, villas, etc.)
 Sales Volume: Number of properties sold in each region
 Pricing Information: Average sale prices across regions
 Sales Dates: Time periods for each transaction
+
+
+
 Key Insights
 Top Regions for Housing Sales: Identifies the cities with the highest number of sales.
 Pricing Trends: Examines how pricing varies across different regions and property types.
